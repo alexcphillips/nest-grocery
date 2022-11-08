@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "itemName": "H-E-B Two Bite Brownies",
+      "sku": 85294241,
+      "isTaxable": false,
+      "ownBrand": true,
+      "price": 3.61
+    },
+    {
+      "itemName": "H-E-B Spaghetti",
+      "sku": 30532705,
+      "isTaxable": false,
+      "ownBrand": true,
+      "price": 4.86
+    },
+    {
+      "itemName": "H-E-B Prime 1 Beef Brisket Steak Burgers, 2 ct",
+      "sku": 29846569,
+      "isTaxable": true,
+      "ownBrand": true,
+      "price": 8.65
+    },
+    {
+      "itemName": "Tofurky",
+      "sku": 61411728,
+      "isTaxable": true,
+      "ownBrand": false,
+      "price": 8.15
+    },
+    {
+      "itemName": "H-E-B Select Ingredients Chocolate Hummus",
+      "sku": 58267213,
+      "isTaxable": true,
+      "ownBrand": true,
+      "price": 9.29
+    },
+    {
+      "itemName": "Heinz Tomato Ketchup",
+      "sku": 73018836,
+      "isTaxable": false,
+      "ownBrand": false,
+      "price": 12.8
+    },
+    {
+      "itemName": "H-E-B Queso Classic, Mild",
+      "sku": 12338101,
+      "isTaxable": false,
+      "ownBrand": true,
+      "price": 12.41
+    },
+    {
+      "itemName": "Central Market Mild Peach Salsa",
+      "sku": 99828459,
+      "isTaxable": false,
+      "ownBrand": true,
+      "price": 1.16
+    },
+    {
+      "itemName": "H-E-B Natural Ground Bison",
+      "sku": 14064431,
+      "isTaxable": false,
+      "ownBrand": true,
+      "price": 12.52
+    },
+    {
+      "itemName": "H-E-B Texas Style Unsweet Tea",
+      "sku": 77915014,
+      "isTaxable": true,
+      "ownBrand": true,
+      "price": 7.04
+    },
+    {
+      "itemName": "H-E-B Original Bacon",
+      "sku": 48067887,
+      "isTaxable": false,
+      "ownBrand": true,
+      "price": 7.15
+    },
+    {
+      "itemName": "H-E-B Cotton Swabs with Paper Sticks",
+      "sku": 48426066,
+      "isTaxable": false,
+      "ownBrand": true,
+      "price": 9.72
+    },
+    {
+      "itemName": "Central Market Organics Mushroom Pasta Sauce",
+      "sku": 64474859,
+      "isTaxable": true,
+      "ownBrand": true,
+      "price": 7.12
+    },
+    {
+      "itemName": "H-E-B Vegetable Medley",
+      "sku": 11407191,
+      "isTaxable": true,
+      "ownBrand": true,
+      "price": 4.81
+    }
+  ]
+}
